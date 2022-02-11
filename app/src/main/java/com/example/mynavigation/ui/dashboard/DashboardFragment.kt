@@ -12,7 +12,7 @@ import com.example.mynavigation.R
 import com.example.mynavigation.databinding.FragmentDashboardBinding
 
 class DashboardFragment : Fragment() {
-
+   
     private lateinit var dashboardViewModel: DashboardViewModel
     private var _binding: FragmentDashboardBinding? = null
 
